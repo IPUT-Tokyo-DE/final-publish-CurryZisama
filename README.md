@@ -4,7 +4,7 @@
 ## ゲームの内容
 ここにゲームの内容説明を記述する
 
-![画面イメージ](docs/images/game_image01.png)
+![画面イメージ](docs/images/Title_Image.png)
 
 ## 操作説明
 例
